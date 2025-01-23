@@ -154,5 +154,5 @@ Tasks 1-4, initially implemented synchronously, were optimized using **Promises*
 ## Acknowledgements
 
 - The course *"Developing Back-End Apps with Node.js and Express"*, offered by **IBM** through **Coursera**.
-  You can find more details about the course [here](https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/home/welcome).
+  You can find more details about the course [here](https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express).
 - Special thanks to the **IBM Developer Skills Network** for providing the foundational project structure and guidance.
